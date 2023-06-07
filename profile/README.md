@@ -1,3 +1,4 @@
+![Side Protocol](./1-1.jpg)
 ## Side Protocol
 
 Side Protocol is developing a distributed inter-blockchain liquidity mesh network system that utilizes innovative IBC-based swap application protocols (ICS100-Interchain Atomic Swap and ICS101-Interchain AMM Swap). Unlike liquidity hubs, Side Protocol aims to decentralize liquidity between diverse blockchain networks in a bridgeless manner, while maintaining interconnectivity. At the core of the Side Protocol lies SIDE, a robust EVM-compatible layer-1 infrastructure that serves as the system's liquidity engine. SIDE is responsible for fostering interconnectivity and ensuring sufficient liquidity between different blockchain networks. Additionally, SIDE offers massive incentives to developers through its unique "Adopt to Earn" integrated chain module, encouraging active participation and traction boostrapping.
