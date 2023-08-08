@@ -2,7 +2,7 @@
 
 ## Side Protocol
 
-Side Protocol is developing a distributed inter-blockchain liquidity mesh network system that utilizes innovative IBC-based swap application protocols (ICS100-Interchain Atomic Swap and ICS101-Interchain AMM Swap). Unlike liquidity hubs, Side Protocol aims to decentralize liquidity between diverse blockchain networks in a bridgeless manner, while maintaining interconnectivity. At the core of the Side Protocol lies SIDE, a robust EVM-compatible layer-1 infrastructure that serves as the system's liquidity engine. SIDE is responsible for fostering interconnectivity and ensuring sufficient liquidity between different blockchain networks. Additionally, SIDE offers massive incentives to developers through its unique "Adopt to Earn" integrated chain module, encouraging active participation and traction boostrapping.
+Side Protocol is an infrastructure for mesh liquidity, a network of liquidity which is distributed across different networks but interconnected via arbitrary messaging protocols. At the core of the mesh liquidity network lies SIDE, a layer-1 Cosmos-SDK based blockchain housing the flagship implementation of Side Protocol.
 
 ## Interchain Tech Stacks
 
@@ -12,4 +12,4 @@ Interchain Atomic Swap (IAS) is a trustless and decentralized protocol for inter
 
 2. ICS 101: Interchain AMM Swap
 
-Interchain AMM Swap (IAMS) is an inter-blockchain asset swap mechanism that utilizes an Automated Market Maker protocol. This type of swap leverages liquidity pools and algorithmic pricing to facilitate bridgeless asset swaps without the reliance on traditional order books or centralized exchanges. In the context of IAMS, liquidity providers deposit assets into a liquidity pool that exists across multiple blockchain networks. The liquidity pool serves as the source of liquidity for the swaps. Users can then directly trade their assets from the pool, with the AMM algorithm determining the exchange rate based on the available liquidity.
+Interchain AMM Swap (IAMS) is an inter-blockchain asset swap mechanism that utilizes an Automated Market Maker protocol. This type of swap leverages liquidity pools and algorithmic pricing to facilitate bridgeless asset swaps without the reliance on traditional order books or centralized exchanges. In the context of IAMS, the state of a liquidity pool transcends individual blockchains and exists across multiple blockchains, encompassing two or more liquidity hubs. The liquidity pool on different chains serves as the source of liquidity for the swaps. Users can then directly trade their assets from the pool, with the AMM algorithm determining the exchange rate based on the available liquidity.
