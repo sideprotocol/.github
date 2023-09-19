@@ -2,4 +2,4 @@
 
 ## Side Protocol
 
-Side Protocol is an infrastructure for mesh liquidity, a network where the distribution of liquidity is decentralized across different networks but interconnected via generic cross-chain messaging protocols. At the core of the mesh liquidity network lies SIDE, a layer-1 Cosmos-SDK based blockchain housing the flagship implementation of Side Protocol.
+Side Protocol is the exchange layer of Web3, providing a modular infrastructure to refine asset exchange for the omnichain future. At its core, the protocol is powered by SIDE, a layer-1 Cosmos-SDK-based blockchain housing the flagship implementation of mesh liquidity.
