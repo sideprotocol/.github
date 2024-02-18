@@ -2,4 +2,4 @@
 
 ## Side Protocol
 
-Side Protocol is an infrastructure designed for omnichain asset exchange. At its core lies SIDE, a blockchain based on the Cosmos-SDK and CometBFT. It is designed as a chain abstraction layer and employs a hybrid methodology that combines IBC and TSS. This enables interoperability across all chains, including non-smart contract chains such as Bitcoin.
+Side Protocol is a modular infrastructure designed for omnichain and full-stack asset exchange. At its core lies SIDE, a Cosmos app-chain crafted to function as a chain abstraction layer, enabling seamless interoperability for asset exchange across all chains.
