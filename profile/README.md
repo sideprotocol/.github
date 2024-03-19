@@ -2,4 +2,4 @@
 
 ## Side Protocol
 
-Side Protocol is a modular infrastructure designed for omnichain and full-stack asset exchange. At its core lies SIDE, a Cosmos app-chain crafted to function as a chain abstraction layer, enabling seamless interoperability for asset exchange across all chains.
+Side Protocol is a settlement and value exchange layer for the Bitcoin modular blockchains.
