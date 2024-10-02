@@ -2,4 +2,4 @@
 
 ## Side Protocol
 
-Side Protocol is a settlement and value exchange layer for the Bitcoin modular blockchains.
+Side Protocol is the financial layer for Bitcion
