@@ -2,4 +2,4 @@
 
 ## Side Protocol
 
-Side Protocol is the financial layer for Bitcion
+Side Protocol is the financial layer for Bitcoin
